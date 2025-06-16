@@ -12,3 +12,4 @@ fazer rodar o react:
 Variação caso esteja em outro lugar: cd ~/Downloads/Projeto-Java-USER-main/frontend-usuarios
 npm start
 
+npm install axios
